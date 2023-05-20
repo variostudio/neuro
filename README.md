@@ -1,1 +1,1 @@
-# Neuron network test project
+# Neural network test project
